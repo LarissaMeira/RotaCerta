@@ -140,6 +140,5 @@ User action (e.g. save transaction)
 ---
 
 
-Built with ❤️ for the truck drivers of Brazil 🇧🇷
+Built with Lovable ❤️ for the truck drivers of Brazil 🇧🇷
 
-</div>
