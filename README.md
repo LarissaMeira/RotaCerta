@@ -3,6 +3,13 @@
 ### Financial Management for Independent Truck Drivers
 ---
 
+## 🔗 Links
+
+| | |
+|---|---|
+| 🌐 **Live App** | [caminhoneiros-rota-certa.lovable.app](https://caminhoneiros-rota-certa.lovable.app) |
+
+
 ## 📖 About
 
 **RotaCerta** is a mobile-first web application built specifically for independent truck drivers (*caminhoneiros*) in Brazil who need a simple, reliable way to track income and expenses on the road.
@@ -129,13 +136,8 @@ User action (e.g. save transaction)
 | **Hosting** | Lovable (auto-deploy from repository) |
 | **Design System** | shadcn/ui + custom CSS variables (HSL tokens), dark theme with glass-morphism effects |
 
----
 
-## 🔗 Links
 
-| | |
-|---|---|
-| 🌐 **Live App** | [caminhoneiros-rota-certa.lovable.app](https://caminhoneiros-rota-certa.lovable.app) |
 
 ---
 
